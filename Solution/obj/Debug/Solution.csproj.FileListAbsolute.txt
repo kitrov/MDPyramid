@@ -1,0 +1,5 @@
+C:\Users\Viktor-PC\RiderProjects\MDPyramid\Solution\bin\Debug\Solution.exe
+C:\Users\Viktor-PC\RiderProjects\MDPyramid\Solution\bin\Debug\Solution.pdb
+C:\Users\Viktor-PC\RiderProjects\MDPyramid\Solution\obj\Debug\Solution.csprojResolveAssemblyReference.cache
+C:\Users\Viktor-PC\RiderProjects\MDPyramid\Solution\obj\Debug\Solution.exe
+C:\Users\Viktor-PC\RiderProjects\MDPyramid\Solution\obj\Debug\Solution.pdb
